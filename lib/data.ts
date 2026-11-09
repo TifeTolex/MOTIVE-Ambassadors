@@ -18,12 +18,12 @@ export type Ambassador = {
 };
 
 export const ambassadors: Ambassador[] = [
-  { username: "ambassador1", password: "Motive@101", displayName: "Ambassador 1", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
-  { username: "ambassador2", password: "Motive@102", displayName: "Ambassador 2", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
-  { username: "ambassador3", password: "Motive@103", displayName: "Ambassador 3", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
-  { username: "ambassador4", password: "Motive@104", displayName: "Ambassador 4", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
-  { username: "ambassador5", password: "Motive@105", displayName: "Ambassador 5", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
-  { username: "ambassador6", password: "Motive@106", displayName: "Ambassador 6", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "gbeminiyi", password: "GbeminiyiMotive", displayName: "GBEMINIYI", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "joanna", password: "JoannaMotive", displayName: "JOANNA", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "pecs", password: "PecsMotive", displayName: "PECS", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "pleasanttt", password: "PleasantttMotive", displayName: "PLEASANTTT", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "therhemaokolie", password: "TheRhemaOkolieMotive", displayName: "THE RHEMA OKOLIE", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
+  { username: "saint_xr", password: "Saint_xrMotive", displayName: "SAINT_XR", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
   { username: "ambassador7", password: "Motive@107", displayName: "Ambassador 7", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
   { username: "ambassador8", password: "Motive@108", displayName: "Ambassador 8", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
   { username: "ambassador9", password: "Motive@109", displayName: "Ambassador 9", status: "Active", statusText: "ACTIVE", statusColor: "#24c77a", weeklyCommission: 0, monthlyCommission: 0 },
